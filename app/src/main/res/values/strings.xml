@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin Basic 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+    <string name="search">Search</string>
+    <string name="sport">Sport</string>
+    <string name="tech">Tech</string>
+    <string name="trend">Trend</string>
+    <string name="artis">Artis</string>
+</resources>

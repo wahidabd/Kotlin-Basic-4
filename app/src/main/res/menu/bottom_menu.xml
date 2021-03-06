@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_olahraga"
+        android:title="@string/sport"
+        android:icon="@drawable/ic_olahraga"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_teknologi"
+        android:title="@string/tech"
+        android:icon="@drawable/ic_teknologi"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_trending"
+        android:title="@string/trend"
+        android:icon="@drawable/ic_trending"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_artis"
+        android:title="@string/artis"
+        android:icon="@drawable/ic_artis"
+        app:showAsAction="ifRoom"/>
+
+</menu>
